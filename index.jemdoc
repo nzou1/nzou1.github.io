@@ -1,0 +1,26 @@
+# jemdoc: menu{MENU}{index.html}
+# jemdoc: title{Dr. Na Zou - Home}
+= Dr. Na Zou
+
+~~~
+{}{img_left}{na-zou-profile.jpg}{Dr.Zou Profile Picture}{172px}{230px}
+Assistant Professor Corrie & Jim Furber 64' Faculty Fellow \n
+[https://engineering.tamu.edu/etid/ Department of Engineering Technology and Industrial Distribution] \n
+Texas A&M University (TAMU) \n
+204D Fermier Hall \n
+College Station, TX 77843 \n
+
+Email: nzou1@tamu.edu \n
+Office: (\+1) 979-862-7825 \n
+
+
+~~~
+
+== Biography
+Dr. Na Zou is a tenure-track assistant professor in the Department of Engineering Technology and Industrial Distribution. Her research is in the area of data-driven modeling and knowledge discovery for tackling data challenges raised by large-scale, dynamic and networked data from various real-world information systems. Specifically, Dr. Zou’s research focuses on fairness in machine learning, interpretable machine learning, transfer learning, and network modeling and inference. The research projects have resulted in publications at prestigious venues such as Technometrics, IISE Transactions and ACM Transactions, including one Best Paper Finalist and one Best Student Paper Finalist at INFORMS QSR section and two featured articles at ISE Magazine. She was the recipient of IEEE Irv Kaufman Award.
+
+
+== Research Interests
+- *Machine Learning:* Fairness in Machine Learning, Interpretable Machine Learning, Transfer Learning, Sparse Learning, Uncertainty Quantification
+- *Network Modeling and Inference:* Dynamic Networks, Network Embedding with Heterogeneous Information, Anomaly Detection
+- *Brain Informatics:* Connectivity Modeling from Neuroimaging, Cognitive Performance Assessment, Biomarker Identification, Disease Diagnosis and monitoring

@@ -1,0 +1,149 @@
+# jemdoc: menu{MENU}{publications.html}
+# jemdoc: title{Dr. Na Zou - Publications}
+= Publications
+
+== Journal
+
+~~~
+\[J1\] Mingyang Wan, Daochen Zha, Ninghao Liu, *Na Zou*. "Techniques for Modeling
+Machine Learning Fairness: A Survey." 2021. ACM Transactions on Knowledge
+Discovery from Data (TKDD). (submitted).
+~~~
+
+~~~
+\[J2\] Mengnan Du, Fan Yang, *Na Zou*, Xia Hu. “Fairness in Deep Learning: A Computational Perspective.” 2020. IEEE Intelligent Systems. PP(99):1-1.
+~~~
+
+~~~
+\[J3\] Abhinav Bhardwaj, Joseph Vasselli, Matt Lucht, Zhijian Pei, Brian Shaw, Zachary
+Grassley, Xingjian Wei1, *Na Zou*. “3D Printing of Biomass-fungi Composite Material: A Preliminary Study.” 2020. Manufacturing Letters. 24(2020):96-99.
+~~~
+
+~~~
+\[J4\] Abhinav Bhardwaj, Scott Z Jones, Negar Kalantar, Zhijian Pei, John Vickers, Timothy Wangler, Pablo Zavattieri, *Na Zou*. “Additive Manufacturing Processes for
+Infrastructure Construction: A Review.” 2019. ASME Journal of Manufacturing
+Science and Engineering. 141(9).
+~~~
+
+~~~
+\[J5\] *Na Zou*, Xiao Huang. “Empirical Bayes Transfer Learning for Uncertainty Characterization in Predicting Parkinson’s Disease Severity.” 2018. IISE Transactions
+on Healthcare Systems Engineering. 8(3):209-219. (Featured in ISE Magazine).
+~~~
+
+~~~
+\[J6\] Xiao Huang, Jundong Li, *Na Zou*, Xia Hu. “A General Embedding Framework for
+Heterogeneous Information Learning in Large-scale Networks.” 2018. ACM Transactions on Knowledge Discovery from Data. 12 (2018): 70:1-70:24. (INFORMS
+QSR Best Student Paper Award Finalist).
+~~~
+
+~~~
+\[J7\] Hande Cakin, Berk Gorgulu, Mustafa Gokce Baydogan, *Na Zou*, Sinan Kerem
+Tuncel, Jing Li. “A Data Adaptive Biological Sequence Representation for Supervised Learning.” 2018. Journal of Healthcare Informatics Research. 2(4):448-471.
+~~~
+
+~~~
+\[J8\] *Na Zou*, Jing Li. “Modeling and Change Detection of Dynamic Networks by a
+Network State Space Model.” 2017. IISE Transactions. 49(1):45-57. (Featured in
+ISE Magazine).
+~~~
+
+~~~
+\[J9\] Dmitry Titov, Janine Diehl-Schmid, Kuangyu Shi, Robert Perneczky, *Na Zou*,
+Stefan Förster, Timo Grimmer, Jing Li, Alexander Drzezga, Igor Yakushev. “Metabolic
+Connectivity for Differential Diagnosis of Dementing Disorders.” 2017. Journal of
+Cerebral Blood Flow & Metabolism. 37(1):252-262 (impact factor 5.41, ranked 18
+among 335 journals in Neurology).
+~~~
+
+~~~
+\[J10\] *Na Zou*, Mustafa Baydogan, Yun Zhu, Wei Wang, Ji Zhu, Jing Li. “A Transfer
+Learning Approach for Predictive Modeling of Degenerate Biological Systems.”
+2015. Technometrics. 55(3):362-373.
+~~~
+
+~~~
+\[J11\] *Na Zou*, Gael Chetelat, Mustafa Baydogan, Jing Li, Florian Fischer, Dmitry
+Titov, Juergen Dukart, Andreas Fellgiebel, Mathias Schreckenberger, Igor Yakushev. “Metabolic Connectivity as Index of Verbal Working Memory.” 2015. Journal
+of Cerebral Blood Flow & Metabolism. 35:1122-1126 (impact factor 5.41, ranked
+18 among 335 journals in Neurology).
+~~~
+
+== Refereed Conference Papers
+
+~~~
+\[C1\] Guanchu Wang, Mengnan Du, Ninghao Liu, *Na Zou*, Xia Hu. “Mitigating Algorithmic Bias with Limited Annotations.” 2021. In Proceedings of the AAAI
+Conference on Artificial Intelligence (AAAI). (Submitted)
+~~~
+
+~~~
+\[C2\] Huiqi Deng, *Na Zou*, Weifu Chen, Guocan Feng, Mengnan Du, Xia Hu. “Mutual
+Information Preserving Back-propagation: Learn to Invert for Faithful Attribution.” 2021. The 27th ACM SIGKDD Conference on Knowledge Discovery and
+Data Mining (KDD). (Acceptance rate as 15.4%)
+~~~
+
+~~~
+\[C3\] Ruixiang Tang, Mengnan Du,Yuening Li, Zirui Liu, *Na Zou*, Xia Hu. “Mitigating Gender Bias in Captioning Systems.” 2021. International World Wide Web
+Conference (TheWebConf). (Acceptance rate as 20.6%)
+~~~
+
+~~~
+\[C4\] Huiqi Deng, *Na Zou*, Mengnan Du, Weifu Chen, Guocan Feng, Xia Hu. “A Unified Taylor Framework for Revisiting Attribution Methods.” 2021. In Proceedings
+of the AAAI Conference on Artificial Intelligence (AAAI). (Acceptance rate as
+21%).
+~~~
+
+~~~
+\[C5\] Kaixiong Zhou, Qingquan Song, Daochen Zha, *Na Zou* and Xia Hu. “MultiChannel Graph Convolutional Networks.” 2020. The 29th International Joint
+Conference on Artificial Intelligence and the 17th Pacific Rim International Conference on Artificial Intelligence (IJCAI-PRICAI). (Acceptance rate as 12.6%)
+~~~
+
+~~~
+\[C6\] Zhengyang Wang, *Na Zou*, Dinggang Shen, Fellow, IEEE, and Shuiwang Ji,
+Senior Member, IEEE. “Non-local U-Net for Biomedical Image Segmentation.”
+2020. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI).
+(Acceptance rate as 20.6%)
+~~~
+
+~~~
+\[C7\] Hao Yuan, *Na Zou*, Shaoting Zhang, Senior Member, IEEE, Hanchuan Peng,
+Senior Member, IEEE, and Shuiwang Ji, Senior Member, IEEE. “Learning Hierarchical and Shared Features for Improving 3D Neuron Reconstruction.” 2019.
+IEEE International Conference on Data Mining (ICDM). (Acceptance rate as
+9.08%)
+~~~
+
+~~~
+\[C8\] Yuening Li, Xiao Huang, Jundong Li, Mengnan Du and *Na Zou*. “SpecAE:
+Spectral Autoencoder for Anomaly Detection in Attributed Networks.” 2019. The
+28th ACM International Conference on Information and Knowledge Management
+(CIKM). (Acceptance rate as 21% and INFORMS QSR Best Referred Paper
+Award Finalist).
+~~~
+
+~~~
+\[C9\] Abhinav Bhardwaj, Negar Kalantar, Elmer Molina, *Na Zou*, Zhijian Pei. “Extrusion Based 3D Printing of Porcelain: Feasible Regions.” 2019. Proceedings of the
+ASME 2019 International Manufacturing Science and Engineering Conference
+(MSEC).
+~~~
+
+== Presentations
+
+- “Fairness in Machine Learning: a computational perspective.” IISE DAIS Webinar,
+Jan. 19, 2021.
+- “Empirical Bayes Transfer Learning for Uncertainty Characterization in Predicting
+Parkinson’s Disease Severity.” IISE Annual Conference, Orlando, May 18-21, 2019.
+- “A General Embedding Framework for Heterogeneous Information Learning in Large-scale Networks.” INFORMS Annual Conference, Phoenix, Nov. 4-7, 2018.
+- “Spatial-temporal Transfer Learning: From Brain Disease to Networks.” University
+of Houston, Houston, Feb. 9, 2018.
+- “A Data Adaptive Categorical Time Series Representation for Supervised Learning.”
+SIAM International Conference on Data Mining, Houston, Apr. 27-29, 2017.
+- “Modeling and Change Detection of Dynamic Networks.” INFORMS (Institute for
+Operations Research and the Management Sciences) Annual Conference, Nashville,
+Nov. 13-16, 2016.
+- “A Probabilistic Framework of Transfer Learning – Theory and Application.” Texas
+A&M University, College Station, Mar. 8, 2016.
+- “A Transfer Learning Approach for Predictive Modeling of Degenerate Biological
+Systems.” INFORMS Annual Conference, Philadelphia, Nov. 1-4, 2015.
+- “A Probabilistic Framework of Transfer Learning – Theory and Application.” INFORMS ASU Chapter, Phoenix, Apr. 24, 2015.
+- “Design of Concrete Guardrail and Vehicle Impact Simulation on City Viaduct Roads.”
+2nd National Competition of Transportation Science and Technology for Students,
+Shanghai, China, May 2007.
